@@ -4,7 +4,7 @@
 - 👀 I’m interested in promoting Mental Health
 - 🌱 I’m currently learning more about subnets
 - 💞️ I’m looking to collaborate on Retro9000 projects
-- 📫 How to reach me twitter @goodonavax or email mobilizinggood@gmail.com
+- 📫 Reach out on twitter @goodonavax or email mobilizinggood@gmail.com
 
 # GOODChain: Blockchain for Mental Health & Global Impact
 
