@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on Retro9000 projects
 - 📫 Reach out on twitter @goodonavax or email mobilizinggood@gmail.com
 
-# GOODChain: Blockchain for Mental Health & Global Impact
+# GOOD CARE: Blockchain for Mental Health & Global Impact
 
 GOODChain is a decentralized platform designed to promote mental wealth by rewarding users for positive health behaviors, connecting them to mental health resources, and tracking the impact of donations to mental health causes.
 
